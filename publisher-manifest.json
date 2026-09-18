@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "e813164b9fbf246206c39807",
+  "owner": "umyftfpqn",
+  "repo": "umyftfpqn.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "8ddcccc0f13d13783b7fbb67",
+      "a": "Godetia",
+      "b": "官方发布页",
+      "entity": "Godetia",
+      "brand": "官方发布页",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "598d22860b2116f4d6010ef474d58cce19883ed14b81e7337ac6a68bab71668d",
+      "content": {
+        "primary_entity": "Godetia",
+        "keyword1": "Godetia",
+        "keyword2": "官方发布页",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要稳定海外网络加速的用户，提供基础版、旗舰版与团队版三档套餐。基础版适合个人日常流媒体与轻量浏览，旗舰版增加专线节点与游戏加速优化，团队版面向小型团队多设备场景，按年付可降低月均成本。",
+          "AI_HERO_SUBTITLE": "多设备海外加速选择",
+          "AI_HERO_INTRO": "Godetia 提供按月与按年计费的海外加速套餐，覆盖个人到团队的不同设备数量与流量需求。三档方案分别对应轻量使用、流媒体与游戏加速、以及多设备团队场景。",
+          "AI_VISUAL_TITLE": "Godetia 套餐速览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "按年付降低月均成本",
+          "AI_HIGHLIGHT_3": "设备数量与流量灵活匹配",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三个角度理解套餐差异。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持少量设备，旗舰版覆盖更多设备，团队版面向多人多设备场景。",
+          "AI_FEATURE_TITLE_2": "按流量需求选档",
+          "AI_FEATURE_TEXT_2": "从轻量到高频分别对应不同流量档位，先估算日常用量再决定，避免频繁调整。",
+          "AI_FEATURE_TITLE_3": "按周期决定付费",
+          "AI_FEATURE_TEXT_3": "按月订阅灵活，按年付月均更低。长期使用可优先考虑年付方案。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，并参考客户端文档完成订阅配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "比较三档套餐的设备数量、流量额度与专属权益，再结合使用人数与周期做选择。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "按选择服务、确认适配、配置订阅的顺序完成使用准备。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与流量需求，在基础版、旗舰版或团队版中确定一档套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统与套餐支持的客户端类型匹配，再准备订阅信息。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端的说明导入订阅，完成连接后即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Godetia 套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "通常可以在当前周期结束后切换套餐，具体以所选套餐的说明为准。建议先评估流量与设备变化，再决定是否升级或降级。",
+          "AI_FAQ_QUESTION_2": "团队版适合多少人使用？",
+          "AI_FAQ_ANSWER_2": "团队版面向小型团队或家庭多设备场景，可同时连接较多设备。若人数较少，可先考虑旗舰版再按需调整。",
+          "AI_FAQ_QUESTION_3": "按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "按月付灵活，适合短期使用；按年付月均成本更低，适合长期稳定使用。可根据预计使用时长选择。",
+          "AI_FAQ_QUESTION_4": "如何判断自己需要哪档流量？",
+          "AI_FAQ_ANSWER_4": "先估算每日流媒体、浏览与下载的时长，再乘以设备数量。轻量使用可选基础版，多设备高频使用建议旗舰版或团队版。",
+          "AI_FAQ_QUESTION_5": "订阅配置遇到问题怎么办？",
+          "AI_FAQ_ANSWER_5": "先核对客户端版本与订阅信息是否对应，再参照客户端文档重新导入。若仍无法连接，可通过工单渠道反馈具体提示。",
+          "AI_CLOSING_TITLE": "选对套餐",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，再按客户端文档完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "6d366a04cab2d86eafcc0c00ab2a19081e22496fdff5368d5fdcee7c04e8c382",
+    "sitemap.xml": "dd082dab61b1f0d7318de96ddaa860a6075680b0be5cd740b239889a3aa4eda7",
+    "robots.txt": "b8bc33ac79be29901853d92b8a556343ffee3ca866b9d00d94293149d56405fd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "1747e8c35618ae3626338056843659f03e40ea89c60c5e874fb526e23bf69ad1"
+}
